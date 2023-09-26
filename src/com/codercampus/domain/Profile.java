@@ -20,7 +20,7 @@ public void setId(Integer id) {
 	this.id = id;
 }
 public String getProfileName() {
-	return name;
+	return Profilename;
 }
 public void setProfileName(String name) {
 	this.Profilename = name;
