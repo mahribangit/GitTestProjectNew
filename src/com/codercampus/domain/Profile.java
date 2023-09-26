@@ -2,6 +2,23 @@ package com.codercampus.domain;
 
 import java.time.LocalDate;
 
+
+/**
+ * Branches
+ * main/master -> represents the code that's actually live on the internet (ie coderscampus.com)
+ * UAT (not typical)
+ * QA
+ * Development
+ * 
+ * 
+ * Environments
+ * Production -> main/master
+ * UAT (not typical)
+ * QA
+ * Dev
+ */
+
+
 public class Profile {
 private Integer id;
 private String Profilename;
